@@ -1,4 +1,4 @@
 # Notas
 inicio
 # contiene
-archivos html
+archivos html y php
